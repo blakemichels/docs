@@ -4,11 +4,11 @@ intro: You can view information about deployments for your entire repository or 
 redirect_from:
   - /articles/viewing-deployment-activity-for-your-repository
   - /github/administering-a-repository/viewing-deployment-activity-for-your-repository
-versions:
+versions:6.0
   fpt: '*'
   ghes: '*'
   ghae: '*'
-topics:
+topics:2
   - Repositories
 shortTitle: View deployment activity
 ---
